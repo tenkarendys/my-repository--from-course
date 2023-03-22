@@ -1,2 +1,2 @@
 # my-repository--from-course
-Here is repository wich was created during 30h course: complete Git &amp; GitHub Guide
+Here is repository wich I was created during 30h course: complete Git &amp; GitHub Guide
