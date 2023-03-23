@@ -1,1 +1,3 @@
 Another file created in remote branch. 
+
+This file was modified locally. 
